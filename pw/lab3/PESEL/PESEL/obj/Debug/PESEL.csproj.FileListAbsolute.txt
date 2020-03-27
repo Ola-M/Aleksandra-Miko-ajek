@@ -1,0 +1,10 @@
+C:\Users\Aleksandra\source\repos\PESEL\PESEL\bin\Debug\PESEL.exe.config
+C:\Users\Aleksandra\source\repos\PESEL\PESEL\bin\Debug\PESEL.exe
+C:\Users\Aleksandra\source\repos\PESEL\PESEL\bin\Debug\PESEL.pdb
+C:\Users\Aleksandra\source\repos\PESEL\PESEL\obj\Debug\PESEL.csprojAssemblyReference.cache
+C:\Users\Aleksandra\source\repos\PESEL\PESEL\obj\Debug\PESEL.Form1.resources
+C:\Users\Aleksandra\source\repos\PESEL\PESEL\obj\Debug\PESEL.Properties.Resources.resources
+C:\Users\Aleksandra\source\repos\PESEL\PESEL\obj\Debug\PESEL.csproj.GenerateResource.cache
+C:\Users\Aleksandra\source\repos\PESEL\PESEL\obj\Debug\PESEL.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\source\repos\PESEL\PESEL\obj\Debug\PESEL.exe
+C:\Users\Aleksandra\source\repos\PESEL\PESEL\obj\Debug\PESEL.pdb
