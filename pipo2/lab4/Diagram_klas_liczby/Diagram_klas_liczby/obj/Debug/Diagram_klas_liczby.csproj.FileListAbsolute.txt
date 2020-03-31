@@ -1,0 +1,7 @@
+E:\Aleksandra-Miko-ajek\pipo2\lab4\Diagram_klas_liczby\Diagram_klas_liczby\obj\Debug\Diagram_klas_liczby.csprojAssemblyReference.cache
+E:\Aleksandra-Miko-ajek\pipo2\lab4\Diagram_klas_liczby\Diagram_klas_liczby\obj\Debug\Diagram_klas_liczby.csproj.CoreCompileInputs.cache
+E:\Aleksandra-Miko-ajek\pipo2\lab4\Diagram_klas_liczby\Diagram_klas_liczby\bin\Debug\Diagram_klas_liczby.exe.config
+E:\Aleksandra-Miko-ajek\pipo2\lab4\Diagram_klas_liczby\Diagram_klas_liczby\bin\Debug\Diagram_klas_liczby.exe
+E:\Aleksandra-Miko-ajek\pipo2\lab4\Diagram_klas_liczby\Diagram_klas_liczby\bin\Debug\Diagram_klas_liczby.pdb
+E:\Aleksandra-Miko-ajek\pipo2\lab4\Diagram_klas_liczby\Diagram_klas_liczby\obj\Debug\Diagram_klas_liczby.exe
+E:\Aleksandra-Miko-ajek\pipo2\lab4\Diagram_klas_liczby\Diagram_klas_liczby\obj\Debug\Diagram_klas_liczby.pdb

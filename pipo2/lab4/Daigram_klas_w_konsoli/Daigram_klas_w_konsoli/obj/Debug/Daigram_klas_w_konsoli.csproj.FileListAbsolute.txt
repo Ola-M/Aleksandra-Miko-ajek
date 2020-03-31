@@ -1,0 +1,7 @@
+E:\Aleksandra-Miko-ajek\pipo2\lab3_1\Daigram_klas_w_konsoli\Daigram_klas_w_konsoli\bin\Debug\Daigram_klas_w_konsoli.exe.config
+E:\Aleksandra-Miko-ajek\pipo2\lab3_1\Daigram_klas_w_konsoli\Daigram_klas_w_konsoli\bin\Debug\Daigram_klas_w_konsoli.exe
+E:\Aleksandra-Miko-ajek\pipo2\lab3_1\Daigram_klas_w_konsoli\Daigram_klas_w_konsoli\bin\Debug\Daigram_klas_w_konsoli.pdb
+E:\Aleksandra-Miko-ajek\pipo2\lab3_1\Daigram_klas_w_konsoli\Daigram_klas_w_konsoli\obj\Debug\Daigram_klas_w_konsoli.csprojAssemblyReference.cache
+E:\Aleksandra-Miko-ajek\pipo2\lab3_1\Daigram_klas_w_konsoli\Daigram_klas_w_konsoli\obj\Debug\Daigram_klas_w_konsoli.csproj.CoreCompileInputs.cache
+E:\Aleksandra-Miko-ajek\pipo2\lab3_1\Daigram_klas_w_konsoli\Daigram_klas_w_konsoli\obj\Debug\Daigram_klas_w_konsoli.exe
+E:\Aleksandra-Miko-ajek\pipo2\lab3_1\Daigram_klas_w_konsoli\Daigram_klas_w_konsoli\obj\Debug\Daigram_klas_w_konsoli.pdb
