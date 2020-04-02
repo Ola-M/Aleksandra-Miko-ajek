@@ -8,3 +8,13 @@ C:\Users\Aleksandra\source\repos\BMR\BMR\obj\Debug\BMR.csproj.GenerateResource.c
 C:\Users\Aleksandra\source\repos\BMR\BMR\obj\Debug\BMR.csproj.CoreCompileInputs.cache
 C:\Users\Aleksandra\source\repos\BMR\BMR\obj\Debug\BMR.exe
 C:\Users\Aleksandra\source\repos\BMR\BMR\obj\Debug\BMR.pdb
+E:\Aleksandra-Miko-ajek\pw\lab3\BMR\BMR\bin\Debug\BMR.exe.config
+E:\Aleksandra-Miko-ajek\pw\lab3\BMR\BMR\bin\Debug\BMR.exe
+E:\Aleksandra-Miko-ajek\pw\lab3\BMR\BMR\bin\Debug\BMR.pdb
+E:\Aleksandra-Miko-ajek\pw\lab3\BMR\BMR\obj\Debug\BMR.csprojAssemblyReference.cache
+E:\Aleksandra-Miko-ajek\pw\lab3\BMR\BMR\obj\Debug\BMR.Form1.resources
+E:\Aleksandra-Miko-ajek\pw\lab3\BMR\BMR\obj\Debug\BMR.Properties.Resources.resources
+E:\Aleksandra-Miko-ajek\pw\lab3\BMR\BMR\obj\Debug\BMR.csproj.GenerateResource.cache
+E:\Aleksandra-Miko-ajek\pw\lab3\BMR\BMR\obj\Debug\BMR.csproj.CoreCompileInputs.cache
+E:\Aleksandra-Miko-ajek\pw\lab3\BMR\BMR\obj\Debug\BMR.exe
+E:\Aleksandra-Miko-ajek\pw\lab3\BMR\BMR\obj\Debug\BMR.pdb

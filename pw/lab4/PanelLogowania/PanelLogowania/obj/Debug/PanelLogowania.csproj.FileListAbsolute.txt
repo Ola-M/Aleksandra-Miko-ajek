@@ -1,0 +1,11 @@
+E:\Aleksandra-Miko-ajek\pw\lab4\PanelLogowania\PanelLogowania\bin\Debug\PanelLogowania.exe.config
+E:\Aleksandra-Miko-ajek\pw\lab4\PanelLogowania\PanelLogowania\bin\Debug\PanelLogowania.exe
+E:\Aleksandra-Miko-ajek\pw\lab4\PanelLogowania\PanelLogowania\bin\Debug\PanelLogowania.pdb
+E:\Aleksandra-Miko-ajek\pw\lab4\PanelLogowania\PanelLogowania\obj\Debug\PanelLogowania.csprojAssemblyReference.cache
+E:\Aleksandra-Miko-ajek\pw\lab4\PanelLogowania\PanelLogowania\obj\Debug\PanelLogowania.Form1.resources
+E:\Aleksandra-Miko-ajek\pw\lab4\PanelLogowania\PanelLogowania\obj\Debug\PanelLogowania.Form2.resources
+E:\Aleksandra-Miko-ajek\pw\lab4\PanelLogowania\PanelLogowania\obj\Debug\PanelLogowania.Properties.Resources.resources
+E:\Aleksandra-Miko-ajek\pw\lab4\PanelLogowania\PanelLogowania\obj\Debug\PanelLogowania.csproj.GenerateResource.cache
+E:\Aleksandra-Miko-ajek\pw\lab4\PanelLogowania\PanelLogowania\obj\Debug\PanelLogowania.csproj.CoreCompileInputs.cache
+E:\Aleksandra-Miko-ajek\pw\lab4\PanelLogowania\PanelLogowania\obj\Debug\PanelLogowania.exe
+E:\Aleksandra-Miko-ajek\pw\lab4\PanelLogowania\PanelLogowania\obj\Debug\PanelLogowania.pdb

@@ -8,3 +8,13 @@ C:\Users\Aleksandra\source\repos\PESEL\PESEL\obj\Debug\PESEL.csproj.GenerateReso
 C:\Users\Aleksandra\source\repos\PESEL\PESEL\obj\Debug\PESEL.csproj.CoreCompileInputs.cache
 C:\Users\Aleksandra\source\repos\PESEL\PESEL\obj\Debug\PESEL.exe
 C:\Users\Aleksandra\source\repos\PESEL\PESEL\obj\Debug\PESEL.pdb
+E:\Aleksandra-Miko-ajek\pw\lab3\PESEL\PESEL\bin\Debug\PESEL.exe.config
+E:\Aleksandra-Miko-ajek\pw\lab3\PESEL\PESEL\bin\Debug\PESEL.exe
+E:\Aleksandra-Miko-ajek\pw\lab3\PESEL\PESEL\bin\Debug\PESEL.pdb
+E:\Aleksandra-Miko-ajek\pw\lab3\PESEL\PESEL\obj\Debug\PESEL.csprojAssemblyReference.cache
+E:\Aleksandra-Miko-ajek\pw\lab3\PESEL\PESEL\obj\Debug\PESEL.Form1.resources
+E:\Aleksandra-Miko-ajek\pw\lab3\PESEL\PESEL\obj\Debug\PESEL.Properties.Resources.resources
+E:\Aleksandra-Miko-ajek\pw\lab3\PESEL\PESEL\obj\Debug\PESEL.csproj.GenerateResource.cache
+E:\Aleksandra-Miko-ajek\pw\lab3\PESEL\PESEL\obj\Debug\PESEL.csproj.CoreCompileInputs.cache
+E:\Aleksandra-Miko-ajek\pw\lab3\PESEL\PESEL\obj\Debug\PESEL.exe
+E:\Aleksandra-Miko-ajek\pw\lab3\PESEL\PESEL\obj\Debug\PESEL.pdb

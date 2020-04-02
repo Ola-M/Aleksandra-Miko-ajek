@@ -22,23 +22,23 @@ namespace PESEL
         private void button1_Click(object sender, EventArgs e)
         {
 
-            String p = textBox1.Text; //pesel
-            int d = p.Length;
-            //int peselCheck = (1*p[0]) + (3*p[1]) + (7*p[2]) + (9*p[3]) + (1*p[4]) + (3*p[5]) + (7*p[6]) + (9*p[7]) + (1*p[8]) + (3*p[9]);
-            // Debug.WriteLine(p[3]);
-            label3.Text =d.ToString();
-            /* while (peselCheck > 10)
+            Int64 pesel = Int64.Parse(textBox1.Text.ToString());
+            Int64[] p = new Int64[11];
+                  
+            for(int i=0;i<11;i++ )
              {
-                 peselCheck = peselCheck % 10;
+                p[i] = pesel % 10;
              }
-             if ((10 - peselCheck) == 5)
+            Int64 peselCheck = (1 * p[0]) + (3 * p[1]) + (7 * p[2]) + (9 * p[3]) + (1 * p[4]) + (3 * p[5]) + (7 * p[6]) + (9 * p[7]) + (1 * p[8]) + (3 * p[9]);
+            peselCheck %= 10;
+            if ((10 - peselCheck) == p[10])
              {
                  label3.Text = "Pesel jest poprawny";
              }
              else
              {
                  label3.Text = "Błędny pesel";
-             }*/
+             }
 
         }
 
