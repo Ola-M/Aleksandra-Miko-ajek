@@ -1,0 +1,10 @@
+E:\Aleksandra-Miko-ajek\pw\lab4\KostkaDoGry\KostkaDoGry\bin\Debug\KostkaDoGry.exe.config
+E:\Aleksandra-Miko-ajek\pw\lab4\KostkaDoGry\KostkaDoGry\bin\Debug\KostkaDoGry.exe
+E:\Aleksandra-Miko-ajek\pw\lab4\KostkaDoGry\KostkaDoGry\bin\Debug\KostkaDoGry.pdb
+E:\Aleksandra-Miko-ajek\pw\lab4\KostkaDoGry\KostkaDoGry\obj\Debug\KostkaDoGry.csprojAssemblyReference.cache
+E:\Aleksandra-Miko-ajek\pw\lab4\KostkaDoGry\KostkaDoGry\obj\Debug\KostkaDoGry.Form1.resources
+E:\Aleksandra-Miko-ajek\pw\lab4\KostkaDoGry\KostkaDoGry\obj\Debug\KostkaDoGry.Properties.Resources.resources
+E:\Aleksandra-Miko-ajek\pw\lab4\KostkaDoGry\KostkaDoGry\obj\Debug\KostkaDoGry.csproj.GenerateResource.cache
+E:\Aleksandra-Miko-ajek\pw\lab4\KostkaDoGry\KostkaDoGry\obj\Debug\KostkaDoGry.csproj.CoreCompileInputs.cache
+E:\Aleksandra-Miko-ajek\pw\lab4\KostkaDoGry\KostkaDoGry\obj\Debug\KostkaDoGry.exe
+E:\Aleksandra-Miko-ajek\pw\lab4\KostkaDoGry\KostkaDoGry\obj\Debug\KostkaDoGry.pdb

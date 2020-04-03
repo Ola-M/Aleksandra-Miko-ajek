@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AD29A206-3795-4D15-9E16-4C460AE8515D}</ProjectGuid>
+    <ProjectGuid>{E5F47D67-7288-4E6C-8D10-1829099D3DBF}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>KostkaDoGry</RootNamespace>
     <AssemblyName>KostkaDoGry</AssemblyName>
@@ -54,6 +54,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

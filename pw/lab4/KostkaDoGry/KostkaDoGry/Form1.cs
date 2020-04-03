@@ -16,5 +16,23 @@ namespace KostkaDoGry
         {
             InitializeComponent();
         }
+        private void KeyR(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == 'r')
+            {
+                Random rand = new Random();
+                int T = 0;
+                for (int i = 0; i < 5; i++)
+                {
+                    T = rand.Next(1, 6);
+                }
+                label2.Text = T.ToString();
+            }
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
