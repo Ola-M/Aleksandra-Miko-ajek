@@ -59,6 +59,7 @@
             this.Controls.Add(this.label2);
             this.Name = "Form1";
             this.Text = "Kostka do gry";
+            this.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.Key_R);
             this.ResumeLayout(false);
 
         }
