@@ -1,0 +1,7 @@
+E:\Aleksandra-Miko-ajek\pipo2\lab6_1\lab6_1\bin\Debug\lab6_1.exe.config
+E:\Aleksandra-Miko-ajek\pipo2\lab6_1\lab6_1\bin\Debug\lab6_1.exe
+E:\Aleksandra-Miko-ajek\pipo2\lab6_1\lab6_1\bin\Debug\lab6_1.pdb
+E:\Aleksandra-Miko-ajek\pipo2\lab6_1\lab6_1\obj\Debug\lab6_1.csprojAssemblyReference.cache
+E:\Aleksandra-Miko-ajek\pipo2\lab6_1\lab6_1\obj\Debug\lab6_1.csproj.CoreCompileInputs.cache
+E:\Aleksandra-Miko-ajek\pipo2\lab6_1\lab6_1\obj\Debug\lab6_1.exe
+E:\Aleksandra-Miko-ajek\pipo2\lab6_1\lab6_1\obj\Debug\lab6_1.pdb
